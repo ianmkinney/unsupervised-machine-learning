@@ -1,0 +1,6 @@
+Recommendation to Client
+
+For this Crypto dataset, I do not recommend clustering the data. On the elbow curve, 
+there is no clear optimal point at which the inertia drop slows down due to increased clusters. 
+If clustering is necessary, I would advise a k value of 7 as this is the most obvious slowing point
+on the elbow curve. 
